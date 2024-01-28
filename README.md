@@ -1,5 +1,5 @@
 # AlbertLiu.github.io
-<h2>Homepage of Xizhe SONG</h2>
+<h2>Homepage of Yuhang Liu</h2>
 
 <div style="padding: 10px;">
     <a href="#CV" style="margin-right: 10px;">CV</a>
