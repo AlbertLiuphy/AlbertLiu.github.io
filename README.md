@@ -28,6 +28,8 @@
     <span><strong>School</strong> School of Physical Sciences</span>
 </div>
 
+<h3>Introduction & Preparation</h3>
+
 <h3>EXPERIENCE</h3>
 
 
